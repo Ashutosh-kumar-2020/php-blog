@@ -33,6 +33,6 @@ Now upload the SQL code provided inside blog.sql file
 Upload the code to your phpmyadmin.
 
 # About The Blog Template
-The Blog template is officially made by [codewithharry](www.youtube.com/codewithharry)
+The Blog template is officially made by [codewithharry](https://www.youtube.com/codewithharry)
 
 [Blog Template Video Link](https://www.youtube.com/watch?v=9FD2ugeS4OU)
