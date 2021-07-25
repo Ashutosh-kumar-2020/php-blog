@@ -6,6 +6,8 @@ if (!(isset($_GET['page']))) {
     header("Location: /ashu-net/index.php?page=1");
 }
 
+// https://drive.google.com/drive/folders/1QoPvyIhiwnKOMjrHNL50KTcDqwsNWyeY?usp=sharing - project google drive link
+
 
 ?>
 
